@@ -1,5 +1,5 @@
 # live-project
-live website ion server
+live website on server
 👋 Hi, I’m siddhant jain
  💤My intrest is  in reading good books and learning new language.
 📌i have just started  learning Web development.
